@@ -29,7 +29,7 @@ This task was completed as a part of my Vulnerability Assessment and Penetration
 
 ## 🛠️ Tools Used
 - Wireshark (Packet Analysis)  
-- Snort (Intrusion Detection System) *(if used)*  
+- Snort (Intrusion Detection System)
 - Kali Linux / Linux Environment  
 
 ---
