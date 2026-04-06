@@ -5,6 +5,12 @@ This project focuses on analyzing network traffic and implementing basic **Intru
 
 ---
 
+## 📌 Internship Context
+
+This task was completed as a part of my Vulnerability Assessment and Penetration Testing (VAPT) Internship at Cyart Technologies in February 2026.
+
+---
+
 ## 🎯 Objective
 - To analyze network traffic in real-time  
 - To detect suspicious or malicious activities  
